@@ -63,7 +63,37 @@ Tasks that previously required hours can now be completed in just a few minutes,
 📄 Calibration_Control_System.xlsm
 📄 README.md
 ```
+---
 
+## System Screenshots
+
+### Main Screen
+
+![Main Screen](screenshots/main_screen.png)
+
+---
+
+### Legends
+
+![Legends](screenshots/legends.png)
+
+---
+
+### Raw Dashboard Base
+
+![Raw Dashboard Base](screenshots/raw_dashboard_base.png)
+
+---
+
+### Filtered Dashboard Base
+
+![Filtered Dashboard Base](screenshots/filtered_dashboard_base.png)
+
+---
+
+### Calibration Update UserForm
+
+![Calibration Update UserForm](screenshots/calibration_update_userform.png)
 ---
 
 ## Future Improvements
