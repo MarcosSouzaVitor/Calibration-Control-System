@@ -68,11 +68,14 @@ Tasks that previously required hours can now be completed in just a few minutes,
 
 ## Future Improvements
 
-- PDF export automation
-- Email notification system
-- SQL database integration
-- Power BI connectivity
-- Multi-user support
+* Development of intelligent performance indicators and advanced analytics
+* Interactive Power BI dashboard integration
+* Smart automatic report generation by responsible personnel
+* Intelligent one-click printing system for individual responsible reports
+* Multi-user support and access management
+* Advanced dashboard
+* Enhanced automation workflows
+
 
 ---
 
