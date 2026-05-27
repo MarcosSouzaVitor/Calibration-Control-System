@@ -11,7 +11,14 @@ This project was developed to optimize the control and monitoring of calibration
 The system improves operational efficiency by reducing manual work and accelerating the identification of instruments approaching calibration expiration.
 
 ---
+### English Version
+[Watch the English Demo Video](https://www.youtube.com/watch?v=T7Cg_4kLDqk)
 
+### Versão em Português
+[Assistir Demonstração em Português](https://www.youtube.com/watch?v=F7-JwPAiFUU)
+
+
+---
 ## Problem
 
 The analyst previously used a highly manual spreadsheet containing only the “Master List” worksheet.
